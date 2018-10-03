@@ -1,0 +1,6 @@
+body{background: #003366;color: white;max-width: 1024px;margin: 0px auto;}
+header{background: blue;color: white;border-radius:10px;text-align: center;padding-top: 5px;}
+header img{width: 100px;}
+header nav ul li{border-radius:10px;box-shadow:5px 5px black;background: white;display: inline-block;color:black;padding:10px;list-style: none;margin-right: 10px;width: 110px;}
+
+header nav ul li:
