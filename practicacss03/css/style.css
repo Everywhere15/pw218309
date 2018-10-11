@@ -1,0 +1,9 @@
+body{font-size: 16px;margin:0px auto;max-width: 2084px;max-height: 2084px;background: #2b2b2b;}
+header{background: #f0f0f0;height: 136px;}
+header input{margin-top: 7px;margin-left: 192px;}
+header img{float: right;margin-top: 7px;margin-right: 45px;}
+
+/* SECCION 1 */
+
+#seccion1 #art1 nav ul{list-style: none;color: #b0b0b0;font-size: 24px;}
+#seccion1 #art1 nav ul li:hover{color: white;}
