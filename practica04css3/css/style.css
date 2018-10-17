@@ -1,0 +1,9 @@
+body{max-width: 1024px;margin: 0px auto;}
+
+header #headerparte1 nav{margin-left: -40px;margin-top: 65px;}
+header #headerparte1 nav ul li{display: inline-block;margin-right: 15px;}
+header #headerparte1{float: left;}
+header #headerparte1 img{vertical-align: middle;margin-top: 35px;}
+header #headerparte2{float: right;}
+header #headerparte2 #primeraimgs{margin-left: 10px;}
+
