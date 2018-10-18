@@ -1,9 +1,26 @@
 body{max-width: 1024px;margin: 0px auto;}
-
+header{height: 250px;border-bottom: 1px dashed gray;}
 header #headerparte1 nav{margin-left: -40px;margin-top: 65px;}
+header #headerparte1 nav ul{font-size: 21px;}
 header #headerparte1 nav ul li{display: inline-block;margin-right: 15px;}
 header #headerparte1{float: left;}
 header #headerparte1 img{vertical-align: middle;margin-top: 35px;}
 header #headerparte2{float: right;}
-header #headerparte2 #primeraimgs{margin-left: 10px;}
+header #headerparte2 #primeraimgs{margin-left: 195px;}
+header #headerparte2 #terceraimgs{margin-left: -75px;} 
 
+ #primeraseccion article{display: inline-block;vertical-align: top;}
+ #primeraseccion #secc1part1{width: 55%;padding-top: 40px;}
+ #primeraseccion #secc1part1 #palabra1{font-size: 65px;font-family: 'Open Sans', sans-serif;font-weight: 700;}
+ #primeraseccion #secc1part1 #palabra2{font-size: 65px;font-family: 'Open Sans', sans-serif;font-weight: 700;color: #73f33d;}
+ #primeraseccion #secc1part1 #texto{border-top: 1px dashed gray;}
+ #primeraseccion #secc1part1 p{color:gray;font-size: 17px;text-align: justify;}
+ #primeraseccion #secc1part1 img{max-width: 49%;display: inline-block;}
+ #primeraseccion #secc1part2{width:35%;padding-left: 20px;padding-top: 20px;}
+ #primeraseccion #secc1part2 #bici{width: 446px;}
+ #primeraseccion #secc1part2 #años{position: relative;top: -79px;}
+
+
+
+
+ @font-face{font-family: Open_Sans;src:url("fonts/OpenSans-ExtraBoldItalic.ttf");}
