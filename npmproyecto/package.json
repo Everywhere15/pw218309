@@ -1,0 +1,23 @@
+{
+  "name": "primerproyecto",
+  "version": "0.0.0",
+  "description": "Aprender a instalar paquetes de node y proyectos",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "inicio",
+    "node",
+    "npm",
+    "pw",
+    "rc"
+  ],
+  "author": "Mendez Niebla Diego A",
+  "license": "MIT",
+  "devDependencies": {
+    "electron": "^3.0.8",
+    "electron-require": "^0.3.0",
+    "packager": "0.0.4"
+  }
+}
